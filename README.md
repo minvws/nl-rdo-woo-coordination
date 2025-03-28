@@ -31,7 +31,7 @@ Check [https://github.com/minvws/.github/blob/main/CONTRIBUTING.md](https://gith
 ### Development
 
 - Project repository: [https://github.com/minvws/nl-rdo-woo-web](https://github.com/minvws/nl-rdo-woo-web)
-- For local development, see the [install.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/install.md) file
+- For local development, see the [install.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/development_install.md) file
 - For technical documentation, see the [readme.md](https://github.com/minvws/nl-rdo-woo-web/) file
 - E2E Robot test coverage can be found in [test.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/test.md)
 
