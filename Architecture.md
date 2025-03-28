@@ -1,6 +1,6 @@
 # Introduction
 
-<img src=Images/Woo_architecture.jpg  alt="WOO architectuur afbeelding toont de architectur opzet van de website en de admin kant van het OpenMinVWS project"/>
+<img src=Images/Woo_architecture.jpg  alt="Woo architectuur afbeelding toont de architectur opzet van de website en de admin kant van het OpenMinVWS project"/>
 
 ## Architecture Vision
 

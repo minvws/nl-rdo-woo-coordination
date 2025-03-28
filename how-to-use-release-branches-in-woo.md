@@ -1,4 +1,4 @@
-# Voorbeeld release strategie van het WOO project (later vertalen naar Engels)
+# Voorbeeld release strategie van het Woo project (later vertalen naar Engels)
 
 - Signaal: 'we willen releasen hoe het nu in main staat' (komt vanuit QA / PO)
 - Aanmaken release branch: bijvoorbeeld `release/v1.4.58` (actie QA of in overleg met QA)

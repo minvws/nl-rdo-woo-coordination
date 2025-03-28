@@ -129,12 +129,12 @@ example of this summary:
 | B02 - Besluitdossier filteren  | :green_circle: |
 | B03 - Besluitdossier zoeken    | :green_circle: |
 
-The current E2E testcoverage can be found here: [https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/test.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/test.md)
+The current E2E testcoverage can be found here: [https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/test.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/test.md)
 
 ## Production release E2E Testcoverage meeting
 
 After each successful production release the QA team has a meeting to discuss what extra E2E robot tests are needed to
 cover the new features. These tests are then added to
-the [/docs/test.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/test.md) file with a 'work in progress'
+the [/docs/test.md](https://github.com/minvws/nl-rdo-woo-web/blob/main/docs/technische-documentatie/test.md) file with a 'work in progress'
 icon. This way the test engineer knows what he needs to write tests for and the team knows whats coming in the near
 future.
