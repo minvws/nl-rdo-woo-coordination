@@ -1,0 +1,18 @@
+{
+    "MD013": {
+        "line_length": 10000,
+        "heading_line_length": 800,
+        "code_block_line_length": 8000,
+        "code_blocks": true,
+        "tables": true,
+        "headings": true,
+        "headers": true,
+        "strict": false,
+        "stern": false
+    },
+    "MD033": {
+        "allowed_elements": ["details", "summary", "br", "dl", "dt", "code"]
+    },
+    "MD043": false,
+    "MD024": false
+}
